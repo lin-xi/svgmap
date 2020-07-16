@@ -9740,6 +9740,11 @@ thread-loader@^2.1.3:
     loader-utils "^1.1.0"
     neo-async "^2.6.0"
 
+three@^0.118.3:
+  version "0.118.3"
+  resolved "https://registry.npmjs.org/three/-/three-0.118.3.tgz#c0bf8c10a68155478f12f4ccac2ff979526a4a0a"
+  integrity sha512-ijECXrNzDkHieoeh2H69kgawTGH8DiamhR4uBN8jEM7VHSKvfTdEvOoHsA8Aq7dh7PHAxhlqBsN5arBI3KixSw==
+
 throat@^4.0.0:
   version "4.1.0"
   resolved "https://registry.npmjs.org/throat/-/throat-4.1.0.tgz#89037cbc92c56ab18926e6ba4cbb200e15672a6a"
